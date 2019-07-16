@@ -1,0 +1,2 @@
+blogger for website
+https://basicsofwebdevelopment.wordpress.com/2015/12/15/creating-a-customizable-personal-blog-using-asp-net/
